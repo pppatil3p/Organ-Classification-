@@ -84,11 +84,11 @@ Integrate with augmented reality surgical guidance systems.
 
 ## 👥 Team Members
 ```markdown
+Prathamesh Patil
 Ayush Aote
 Yash Chafle
 Atharva Joshi
 Swagat Koreti
-Prathamesh Patil
 Vedant Itankar
 
 Mentor: Prof. Ganesh Yenurkar
