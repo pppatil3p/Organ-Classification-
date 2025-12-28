@@ -54,14 +54,7 @@ This work is part of our **final year B.Tech project**.
 - TensorFlow or PyTorch
 - OpenCV, NumPy, Pandas, Matplotlib
 
-### Setup
-```markdown
-`
-git clone https://github.com/shxrky17/Lapascopic-Organs-Detection.git
-cd Lapascopic-Organs-Detection
-pip install -r requirements.txt
-`
-```
+
 Running
 Open dataset.ipynb to preprocess the dataset.
 
